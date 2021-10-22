@@ -4,7 +4,7 @@ Open the browser:
 
 WINDOWS:
 	•	Right click on desktop, add new shortcut
-	•	Add the target as "[PATH_TO_CHROME]\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp
+	•	Add the target as "[PATH_TO_CHROME]\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp
 	•	Click OK.
 
 
@@ -17,4 +17,5 @@ google-chrome --disable-web-security
 Finally install the next:
 npm install primereact --save
 npm install primeicons --save
-npm i react-transition-group
+npm i react-transition-group
+npm i primeflex
